@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Lucky Sisodiya
 
-<!--
-**sisodiyalucky828-sys/sisodiyalucky828-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 React Developer  
+💻 Java Full Stack Learner  
+🎯 Building Modern Web Projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- React JS
+- JavaScript
+- CSS
+- Java
+- Git & GitHub
+
+---
+
+## 📌 Projects
+- Tic Tac Toe Game
+- Digital Clock
+- ChatGPT Clone
+- Todo App
+
+---
+
+## 📫 Contact
+📧 sisodiyalucky828@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
